@@ -1,0 +1,93 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A classic novel that explores racial injustice in the Deep South through the eyes of a young girl.",
+      "publishedDate": "1960-07-11",
+      "publisher": "J.B. Lippincott & Co."
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel that warns against totalitarianism and extreme political surveillance.",
+      "publishedDate": "1949-06-08",
+      "publisher": "Secker & Warburg"
+    },
+    {
+      "id": "4",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "A coming-of-age novel that delves into teenage angst and alienation.",
+      "publishedDate": "1951-07-16",
+      "publisher": "Little, Brown and Company"
+    },
+    {
+      "id": "5",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "description": "An epic tale of obsession and revenge, centered around Captain Ahab's pursuit of a legendary white whale.",
+      "publishedDate": "1851-10-18",
+      "publisher": "Harper & Brothers"
+    },
+    {
+      "id": "6",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A romantic novel that critiques societal norms and explores the themes of love and independence.",
+      "publishedDate": "1813-01-28",
+      "publisher": "T. Egerton"
+    },
+    {
+      "id": "7",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "A tragic story about the American Dream and the excesses of the Jazz Age.",
+      "publishedDate": "1925-04-10",
+      "publisher": "Charles Scribner's Sons"
+    },
+    {
+      "id": "8",
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "description": "A historical novel that intertwines personal stories with the backdrop of Napoleon’s invasion of Russia.",
+      "publishedDate": "1869",
+      "publisher": "The Russian Messenger"
+    },
+    {
+      "id": "9",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy adventure following Bilbo Baggins as he embarks on an epic journey.",
+      "publishedDate": "1937-09-21",
+      "publisher": "George Allen & Unwin"
+    },
+    {
+      "id": "10",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "description": "A gothic horror novel that explores themes of ambition, creation, and humanity.",
+      "publishedDate": "1818-01-01",
+      "publisher": "Lackington, Hughes, Harding, Mavor & Jones"
+    },
+    {
+      "id": "11",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "description": "A psychological novel about guilt, morality, and redemption.",
+      "publishedDate": "1866",
+      "publisher": "The Russian Messenger"
+    },
+    {
+      "id": "1c70",
+      "title": "sdsd",
+      "author": "sdsd",
+      "genre": "sdsd",
+      "publishedDate": "2018-02-21",
+      "isbn": "763329",
+      "description": "vaxhskacscasudvcuyasdca"
+    }
+  ]
+}
